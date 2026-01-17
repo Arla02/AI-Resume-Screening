@@ -1,0 +1,94 @@
+================================================================================
+                         JOB DESCRIPTION
+================================================================================
+
+POSITION:       Backend Engineer - Python
+COMPANY:        TechVentures Pvt Ltd
+LOCATION:       Mumbai, India (Hybrid - 3 days in office)
+EXPERIENCE:     2-4 years
+EMPLOYMENT:     Full-time
+
+================================================================================
+                         ABOUT THE COMPANY
+================================================================================
+
+TechVentures is a fast-growing B2B SaaS startup building workflow automation 
+tools for mid-sized businesses. We serve 500+ enterprise clients and process 
+millions of transactions daily. Our engineering team values clean code, 
+thoughtful design, and continuous learning.
+
+================================================================================
+                         ROLE OVERVIEW
+================================================================================
+
+We're looking for a Backend Engineer to join our Platform team. You'll be 
+building and maintaining the APIs that power our core product. This is a 
+hands-on coding role where you'll work closely with frontend engineers, 
+product managers, and DevOps.
+
+================================================================================
+                         RESPONSIBILITIES
+================================================================================
+
+- Design, build, and maintain RESTful APIs using Python
+- Write clean, well-tested, production-quality code
+- Work with PostgreSQL databases - schema design, query optimization
+- Collaborate with frontend team on API contracts
+- Participate in code reviews and technical discussions
+- Debug and resolve production issues
+- Contribute to system design and architecture decisions
+- Write technical documentation
+
+================================================================================
+                         REQUIRED QUALIFICATIONS
+================================================================================
+
+Must Have:
+----------
+- 2+ years of professional experience with Python
+- Experience building REST APIs (Django REST Framework or FastAPI preferred)
+- Strong SQL skills and experience with relational databases (PostgreSQL)
+- Familiarity with Git version control
+- Understanding of software development best practices
+- Good communication skills in English
+
+Technical Requirements:
+-----------------------
+- Python 3.x
+- REST API design principles
+- SQL and database design
+- Git workflows
+
+================================================================================
+                         NICE TO HAVE
+================================================================================
+
+- Experience with Django or FastAPI frameworks
+- Familiarity with Docker and containerization
+- Exposure to message queues (Redis, RabbitMQ, Celery)
+- Basic AWS/cloud experience (EC2, S3, RDS)
+- Experience with CI/CD pipelines
+- Knowledge of microservices architecture
+- Contributions to open source projects
+
+================================================================================
+                         WHAT WE OFFER
+================================================================================
+
+- Competitive salary (₹12-20 LPA based on experience)
+- Health insurance for you and family
+- Flexible work hours
+- Learning budget for courses and conferences
+- Stock options (ESOP)
+- Casual, collaborative work environment
+
+================================================================================
+                         HOW TO APPLY
+================================================================================
+
+Send your resume and a brief note about why you're interested to:
+careers@techventures.example.com
+
+Subject: Backend Engineer Application - [Your Name]
+
+================================================================================

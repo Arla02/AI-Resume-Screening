@@ -1,0 +1,18 @@
+{
+    "input": {
+        "resume": "sample_data/resumes/senior_python_dev.txt",
+        "job_description": "sample_data/job_descriptions/backend_engineer.txt"
+    },
+    "output": {
+        "match_score": 0.85,
+        "recommendation": "Proceed to technical interview",
+        "requires_human": false,
+        "confidence": 0.87,
+        "reasoning_summary": "John Doe is recommended to proceed to a technical interview due to his strong match for the required skills, particularly his proven experience with Python, Django, and RESTful APIs. His leadership and mentoring experience, as well as significant improvements in system scalability and performance, are notable strengths that align well with the job requirements.",
+        "flags": [
+            "Missing 1 required skill(s)",
+            "Experience gaps identified: 2"
+        ]
+    },
+    "notes": "Strong candidate - senior developer with 4+ years matches well with 3+ year requirement"
+}

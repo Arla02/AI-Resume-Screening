@@ -1,0 +1,55 @@
+JOHN DOE
+Software Engineer
+john.doe@email.com | (555) 123-4567 | San Francisco, CA
+LinkedIn: linkedin.com/in/johndoe | GitHub: github.com/johndoe
+
+PROFESSIONAL SUMMARY
+Experienced backend software engineer with 4+ years of expertise in Python, Django, and REST API development. Strong background in database design and optimization. Passionate about building scalable, maintainable systems.
+
+WORK EXPERIENCE
+
+Senior Software Engineer
+TechCorp Inc. | San Francisco, CA | January 2022 - Present
+- Designed and implemented RESTful APIs serving 10M+ daily requests using Python and Django
+- Led migration from monolithic architecture to microservices, improving system scalability by 300%
+- Optimized PostgreSQL database queries, reducing average response time by 40%
+- Mentored team of 3 junior developers, conducting code reviews and pair programming sessions
+- Implemented CI/CD pipelines using GitHub Actions and Docker
+
+Software Engineer
+StartupXYZ | San Francisco, CA | June 2020 - December 2021
+- Built backend services for e-commerce platform using Python and Flask
+- Developed data processing pipelines handling 1TB+ daily data using Apache Kafka
+- Implemented caching strategies with Redis, improving API performance by 60%
+- Collaborated with frontend team to design and implement API contracts
+- Participated in on-call rotation, maintaining 99.9% uptime
+
+Junior Developer
+WebAgency | Oakland, CA | May 2019 - May 2020
+- Developed web applications using Python, JavaScript, and React
+- Created database schemas and wrote SQL queries for MySQL
+- Participated in agile sprints and daily standups
+
+EDUCATION
+
+Bachelor of Science in Computer Science
+University of California, Berkeley | 2019
+GPA: 3.7/4.0
+
+TECHNICAL SKILLS
+
+Languages: Python, JavaScript, SQL, Go
+Frameworks: Django, Flask, FastAPI, React
+Databases: PostgreSQL, MySQL, MongoDB, Redis
+Tools: Docker, Kubernetes, Git, GitHub Actions, AWS (EC2, S3, Lambda)
+Other: REST APIs, GraphQL, Microservices, Agile/Scrum
+
+CERTIFICATIONS
+
+- AWS Certified Developer - Associate (2023)
+- Python Institute PCPP (Professional Python Programmer) (2022)
+
+PROJECTS
+
+- Open-source contribution to Django REST Framework (500+ GitHub stars)
+- Personal finance tracker app with 10K+ users (Python/FastAPI backend)

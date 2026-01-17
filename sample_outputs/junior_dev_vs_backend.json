@@ -1,0 +1,19 @@
+{
+    "input": {
+        "resume": "sample_data/resumes/junior_dev.txt",
+        "job_description": "sample_data/job_descriptions/backend_engineer.txt"
+    },
+    "output": {
+        "match_score": 0.30,
+        "recommendation": "Reject - does not meet minimum requirements",
+        "requires_human": false,
+        "confidence": 0.77,
+        "reasoning_summary": "The candidate, Sarah Chen, is not recommended for the Backend Software Engineer position due to a significant lack of relevant experience and key technical skills, including Python, Django or Flask frameworks, and Docker. Despite showing some strengths, such as a basic understanding of SQL database administration, the gaps in her experience and skills outweigh her potential.",
+        "flags": [
+            "Missing 4 required skill(s)",
+            "Experience gap: 2.5 years below requirement",
+            "Experience gaps identified: 6"
+        ]
+    },
+    "notes": "Junior candidate lacks required 3+ years experience for senior role"
+}

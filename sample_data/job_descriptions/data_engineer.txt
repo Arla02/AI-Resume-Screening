@@ -1,0 +1,33 @@
+Senior Data Engineer
+
+Company: DataFlow Analytics
+
+About the Position:
+We need a Senior Data Engineer to build and maintain our data infrastructure. You'll work with petabytes of data across various sources, building pipelines that power our analytics and ML products.
+
+Required Qualifications:
+- 5+ years of experience as a Data Engineer or similar role
+- Expert-level Python programming skills
+- Strong experience with Apache Spark and distributed computing
+- Proficiency in SQL and data modeling
+- Experience with cloud data platforms (AWS, GCP, or Azure)
+- Experience with orchestration tools like Airflow or Dagster
+- Strong understanding of data warehousing concepts
+- Experience with streaming data (Kafka, Kinesis)
+- Master's degree in Computer Science, Statistics, or related field preferred
+
+Preferred Qualifications:
+- Experience with Snowflake or Databricks
+- Knowledge of dbt for data transformations
+- Familiarity with machine learning workflows
+- Experience building real-time data pipelines
+- MLOps experience
+
+Key Responsibilities:
+- Design and implement scalable data pipelines
+- Optimize data warehouse performance
+- Build data quality monitoring systems
+- Collaborate with data scientists on ML features
+- Document data infrastructure and processes
+
+Compensation: $180,000 - $220,000 base + bonus + equity

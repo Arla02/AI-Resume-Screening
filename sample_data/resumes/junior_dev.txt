@@ -1,0 +1,42 @@
+SARAH CHEN
+Recent Graduate | Entry-Level Developer
+sarah.chen@email.com | (555) 987-6543 | New York, NY
+
+EDUCATION
+
+Bachelor of Science in Information Technology
+City University of New York | May 2024
+GPA: 3.4/4.0
+Relevant Coursework: Data Structures, Algorithms, Database Systems, Web Development
+
+PROJECTS
+
+Inventory Management System (Senior Capstone Project)
+- Built a full-stack web application using Node.js and React
+- Implemented RESTful API endpoints for CRUD operations
+- Used MongoDB for data storage
+- Deployed on Heroku
+
+Personal Blog Website
+- Created a responsive blog using HTML, CSS, and JavaScript
+- Integrated with a headless CMS for content management
+
+INTERNSHIP EXPERIENCE
+
+IT Intern
+LocalBusiness Inc. | New York, NY | Summer 2023
+- Assisted in maintaining company website
+- Helped troubleshoot employee technical issues
+- Learned basics of SQL database administration
+- Shadowed senior developers during code reviews
+
+TECHNICAL SKILLS
+
+Languages: JavaScript (basic), Python (basic), HTML, CSS, SQL (basic)
+Tools: Git, VS Code, MongoDB, Node.js
+Concepts: Basic REST APIs, Agile methodology exposure
+
+ACTIVITIES
+
+- Member, Women in Tech Club
+- Volunteer, Code.org Hour of Code events

@@ -1,0 +1,18 @@
+{
+    "input": {
+        "resume": "sample_data/resumes/senior_python_dev.txt",
+        "job_description": "sample_data/job_descriptions/data_engineer.txt"
+    },
+    "output": {
+        "match_score": 0.52,
+        "recommendation": "Needs manual review - borderline candidate",
+        "requires_human": true,
+        "confidence": 0.65,
+        "reasoning_summary": "The candidate has strong Python skills but limited experience with data engineering specific tools like Spark, Airflow, and data pipelines. While their backend experience is solid, the role requires specialized data engineering knowledge that would need to be developed. Human review recommended to assess transferable skills.",
+        "flags": [
+            "Missing 3 required skill(s)",
+            "Experience gaps identified: 4"
+        ]
+    },
+    "notes": "Borderline case - triggers human review due to ambiguous match score and different role specialization"
+}

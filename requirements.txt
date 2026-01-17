@@ -1,0 +1,20 @@
+# Core dependencies
+langgraph>=0.2.0
+langchain>=0.3.0
+langchain-google-genai>=2.0.0
+langchain-groq>=0.2.0
+
+# Document parsing
+PyPDF2>=3.0.0
+python-docx>=1.1.0
+
+# Data validation and configuration
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+
+# CLI
+rich>=13.0.0
+
+# Testing
+pytest>=8.0.0
+pytest-asyncio>=0.23.0

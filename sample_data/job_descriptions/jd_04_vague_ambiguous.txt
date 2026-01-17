@@ -1,0 +1,74 @@
+================================================================================
+                         JOB DESCRIPTION
+================================================================================
+
+POSITION:       Software Developer
+COMPANY:        XYZ Solutions
+LOCATION:       Delhi NCR
+EXPERIENCE:     Experienced
+EMPLOYMENT:     Full-time
+
+================================================================================
+                         ABOUT US
+================================================================================
+
+We are a growing company working on various technology solutions for clients.
+
+================================================================================
+                         JOB DESCRIPTION
+================================================================================
+
+Looking for software developer to join our team. Should be good at coding and 
+have relevant experience.
+
+Will work on different projects based on requirements.
+
+================================================================================
+                         REQUIREMENTS
+================================================================================
+
+- Programming knowledge
+- Database experience
+- Should be a team player
+- Good communication
+- Quick learner
+- Ready to work on challenging projects
+- Self-motivated
+
+Technical:
+- Coding skills
+- Some framework experience
+- Database
+
+================================================================================
+                         PREFERRED
+================================================================================
+
+- Prior experience in similar role
+- Knowledge of latest technologies
+- Project experience
+
+================================================================================
+                         BENEFITS
+================================================================================
+
+- Competitive salary
+- Good work environment
+- Growth opportunities
+
+================================================================================
+                         APPLY
+================================================================================
+
+Send resume to: hr@xyzsolutions.example.com
+
+================================================================================
+
+NOTE: This is an example of a VAGUE job description that your resume screening 
+system should handle gracefully. The system should:
+- Flag that requirements are unclear
+- Note that it's difficult to assess match due to vague criteria
+- Recommend human review
+- Possibly ask for clarification or make reasonable assumptions
+
+================================================================================

@@ -1,0 +1,93 @@
+================================================================================
+                         JOB DESCRIPTION
+================================================================================
+
+POSITION:       Senior Backend Engineer - Fintech
+COMPANY:        PaySecure Financial Technologies
+LOCATION:       Bangalore, India (On-site required)
+EXPERIENCE:     4-7 years
+EMPLOYMENT:     Full-time
+
+================================================================================
+                         ABOUT THE COMPANY
+================================================================================
+
+PaySecure is a licensed payment aggregator processing ₹500 Cr+ monthly 
+transactions. We work with major banks and financial institutions. Security, 
+reliability, and compliance are non-negotiable in our domain.
+
+================================================================================
+                         ROLE OVERVIEW
+================================================================================
+
+We need a Senior Backend Engineer to lead development of our payment processing 
+infrastructure. This role requires deep expertise in building high-throughput, 
+fault-tolerant systems. You'll be responsible for systems that handle real 
+money - there's no room for "move fast and break things" here.
+
+================================================================================
+                         RESPONSIBILITIES
+================================================================================
+
+- Architect and build payment processing microservices
+- Design systems for 99.99% uptime and zero data loss
+- Lead code reviews and establish engineering standards
+- Mentor junior team members
+- Work with security team on PCI-DSS compliance
+- On-call rotation for critical systems
+- Interface with banking partners on technical integrations
+
+================================================================================
+                         REQUIRED QUALIFICATIONS (STRICT)
+================================================================================
+
+Absolutely Required - No Exceptions:
+------------------------------------
+- 4+ years building backend systems in Python
+- 2+ years experience in fintech/payments domain
+- Expert-level Django or FastAPI knowledge
+- Deep PostgreSQL expertise (replication, partitioning, performance tuning)
+- Experience designing distributed systems
+- Strong understanding of security best practices
+- Experience with high-throughput systems (10,000+ TPS)
+
+Technical Must-Haves:
+---------------------
+- Python 3.8+
+- Django/FastAPI at scale
+- PostgreSQL (advanced)
+- Redis/Caching strategies
+- Docker & Kubernetes
+- Message queues (Kafka/RabbitMQ)
+- AWS services (EC2, RDS, SQS, Lambda)
+
+================================================================================
+                         NICE TO HAVE
+================================================================================
+
+- Previous experience at payment gateways (Razorpay, PayU, etc.)
+- Knowledge of UPI, IMPS, NEFT protocols
+- Experience with RBI compliance requirements
+- Contributions to system design at previous companies
+- Published technical writing or conference talks
+
+================================================================================
+                         WHAT WE OFFER
+================================================================================
+
+- Salary: ₹35-55 LPA (based on experience)
+- Performance bonus up to 20%
+- Comprehensive health coverage
+- Stock options
+- Learning and conference budget
+
+================================================================================
+                         IMPORTANT NOTES
+================================================================================
+
+- This is NOT an entry-level position
+- Fintech experience is strongly preferred
+- Background verification required (financial sector requirement)
+- On-site presence in Bangalore is mandatory
+
+================================================================================

@@ -1,0 +1,106 @@
+================================================================================
+                         JOB DESCRIPTION
+================================================================================
+
+POSITION:       Junior Backend Developer
+COMPANY:        LearnCode EdTech
+LOCATION:       Remote (India)
+EXPERIENCE:     0-2 years (Freshers welcome!)
+EMPLOYMENT:     Full-time
+
+================================================================================
+                         ABOUT THE COMPANY
+================================================================================
+
+LearnCode is an ed-tech startup building an online learning platform for 
+programming. We're a small team of 15 people who love teaching and building. 
+We believe in learning by doing and are happy to invest in training the 
+right candidate.
+
+================================================================================
+                         ROLE OVERVIEW
+================================================================================
+
+We're looking for a Junior Backend Developer to join our small but growing 
+engineering team. This is a great opportunity for someone early in their 
+career who wants to learn from experienced engineers. You'll start with 
+simpler tasks and gradually take on more complex projects as you grow.
+
+Don't worry if you don't tick every box - we're looking for potential 
+and attitude as much as existing skills!
+
+================================================================================
+                         RESPONSIBILITIES
+================================================================================
+
+- Build and maintain API endpoints for our learning platform
+- Write unit tests for your code
+- Fix bugs and improve existing features
+- Learn our codebase and development practices
+- Participate in daily standups and sprint planning
+- Ask questions! (Seriously, we encourage it)
+
+================================================================================
+                         WHAT WE'RE LOOKING FOR
+================================================================================
+
+Required:
+---------
+- Basic understanding of Python programming
+- Some exposure to web development concepts (APIs, HTTP, databases)
+- Willingness to learn Django (we'll teach you!)
+- Good problem-solving attitude
+- Ability to communicate in English
+
+Nice to Have (but we can teach you):
+------------------------------------
+- Personal projects or college projects using Python
+- Basic SQL knowledge
+- Familiarity with Git
+- Any experience with Django/Flask
+- Computer Science degree (but not required - bootcamp grads welcome!)
+
+================================================================================
+                         WHAT YOU'LL LEARN
+================================================================================
+
+In your first 6 months, you'll learn:
+- Django and Django REST Framework
+- Database design with PostgreSQL
+- Writing clean, tested code
+- Git workflows and code review process
+- Deployment basics (we use Heroku/AWS)
+- Agile development practices
+
+================================================================================
+                         WHAT WE OFFER
+================================================================================
+
+- Salary: ₹4-8 LPA (based on skills)
+- Fully remote work
+- Flexible hours (just overlap with team for meetings)
+- Learning stipend (₹20,000/year for courses, books)
+- Mentorship from senior engineers
+- No micromanagement - we trust you to do good work
+- Casual, friendly team culture
+
+================================================================================
+                         HOW TO APPLY
+================================================================================
+
+Send us:
+1. Your resume
+2. Link to any projects (GitHub, deployed apps, anything!)
+3. A brief note about what excites you about backend development
+
+Don't have projects? That's okay! Tell us about:
+- Something technical you learned recently
+- A problem you solved (coding or otherwise)
+- Why you want to be a backend developer
+
+Email: hiring@learncode.example.com
+Subject: Junior Backend Dev - [Your Name]
+
+We review every application. No automated rejections here!
+
+================================================================================
